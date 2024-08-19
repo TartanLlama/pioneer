@@ -186,6 +186,7 @@ void PartDb::Clear()
 
 static const char BACKGROUND_GENERAL_PATH[] = "facegen/backgrounds/general.png";
 
+//
 void PartDb::Scan()
 {
 	PROFILE_SCOPED()
