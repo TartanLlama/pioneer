@@ -1,0 +1,9 @@
+BRIEFLY, what techniques are there to reduce memory padding in a C++ type?
+
+Who could I talk to if I wanted to learn more about #pragma pack?
+
+Is <insert-name> one of the authors in <insert-ref-to-authors-file> ?
+
+BRIEFLY, find some types in the `src/galaxy` directory of the <insert-ref-to-solution> that have padding that can be reduced with `#pragma pack``?
+
+How would I use `#pragma pack` to reduce memory padding for <insert-ref-to-class> ?
